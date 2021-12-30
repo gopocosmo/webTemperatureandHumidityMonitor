@@ -20,8 +20,8 @@
 DHTesp dht;
 
 //SSID and Password of your WiFi router
-const char* ssid = "Gopo_2.4GHz";
-const char* password = "terminator01";
+const char* ssid = "SSID-ul ruterului";
+const char* password = "parola ruterului";
  
 ESP8266WebServer server(80); //Server on port 80
  
